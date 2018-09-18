@@ -1,3 +1,6 @@
 * [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
+  * Excellent introduction to both Python and Computer Science in general. Assumes no knowledge of programming or Python; Teaches concepts such as Big-O Notation, basic data structures such as stacks, recursion, sorting, and more.
 * [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
-* [Automate the boring Stuff with Python](https://automatetheboringstuff.com/)
+  * Introduction to Python. Goes over how to install Python and set up a development environment using virtualenv. Since this guide is open-sourced on Github, it contains introductions to many popular Python modules, as well as best practices while coding. If you're an advanced Python user, you might consider contributing to the guide via Github.
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+  * Introduction to Python, but goes over many modules that aren't covered under traditional Python guides. Will introduce ways of working with Excel Spreadsheets, PDF, Word Documents, CSV's. Also covers modules that allow you to manipulate images and even allow automation of the keyboard and mouse using PyAutoGUI. One of my personal favorites for getting started with Python.
